@@ -1,4 +1,4 @@
-# ODSC East 2024: How to Build an Interactive Front End for Your Python Data Science Models
+# ODSC West 2024: How to Build an Interactive Front End for Your Python Data Science Models
 
 ## About this workshop
 
